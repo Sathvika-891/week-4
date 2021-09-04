@@ -1,0 +1,22 @@
+#nature
+{
+	background-color: green;
+	border: 1px solid black;
+}
+.one
+{
+	background-color: whitesmoke;
+	border: none;
+}
+div
+{
+	font-size: 64px;
+	color: pink;
+}
+div
+{
+	font-size: 30px;
+	color: white;
+	background-color: yellow;
+	margin: 10px;
+}
